@@ -10,6 +10,7 @@ This application allows users to play chess matches by inputting moves in standa
 
 - Supports standard chess notation for moves.
 - Implements basic chess rules, including piece movement, captures, castling, and pawn promotion.
+- Save Game Notation in pgn files.
 - Provides a clean and intuitive console interface for gameplay.
 
 ## Installation
