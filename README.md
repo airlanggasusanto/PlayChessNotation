@@ -1,6 +1,6 @@
 # Play Chess Notation
 
-Play Chess Notation is a console-based application for playing chess using chess notation.
+Play Chess Notation is a console-based application for playing chess using [chess notation](https://www.chess.com/terms/chess-notation).
 
 ## Description
 
